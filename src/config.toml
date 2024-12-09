@@ -1,0 +1,50 @@
+# The URL the site will be built for
+base_url = "https://99managers.org"
+title = "99 Managers"
+
+# For overriding the default output directory `public`, set it to another value (e.g.: "docs")
+output_dir = "public"
+
+# When set to "true", the generated HTML files are minified.
+minify_html = true
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
+
+# theme = ""
+
+# Default author
+author = "Simon Dalvai"
+
+[markdown]
+external_links_target_blank = true
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "solarized-light", filename = "light-code.css" },
+  { theme = "solarized-dark", filename = "dark-code.css" },
+]
+
+[extra]
+icon = "me.webp"
+
+# links
+links.github = "https://github.com/dulvui"
+links.codeberg = "https://codeberg.org/dulvui"
+links.itchio = "https://simondalvai.itch.io/"
+links.mastodon = "https://mastodon.social/@dulvui"
+links.matrix = "https://matrix.to/#/%23s9i.org:matrix.org"
+links.discord = "https://discord.gg/a5DSHZKkA8"
+
+email = "info@simondalvai.org"
+
+# privacy policy
+privacy_policy_updated = "2024-07-24"
+repo_github = "https://github.com/dulvui/99managers.org"
+repo_codeberg = "https://codeberg.org/dulvui/99managers.org"
