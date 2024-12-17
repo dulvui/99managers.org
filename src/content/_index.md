@@ -9,6 +9,8 @@ introduction = "is a unique series of team sports manager games."
 privacypolicy = "privacy-policies.md"
 +++
 
+**[Wishlist now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
+
 All games of the series are Open Surce, with zero ads and zero tracking.  
 
 The games will be avaiable on different platforms  
@@ -16,3 +18,4 @@ The games will be avaiable on different platforms
 **for free** on itch.io, F-Droid and Flathub.  
 
 The first game of the series is [99 Managers Futsal Edition](@/futsal-edition/index.md).
+

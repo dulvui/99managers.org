@@ -14,6 +14,8 @@ github_link = 'https://github.com/dulvui/99managers-futsal-edition/releases/'
 repo_github = "https://github.com/dulvui/99managers-futsal-edition"
 repo_codeberg = "https://codeberg.org/dulvui/99managers-futsal-edition"
 +++
+**[Wishlist now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
+
 99 Managers™ Futsal Edition, is a futsal manager game for Desktop, Android and iOS.
 
 First **pre-alpha versions** available on [Github](https://github.com/dulvui/99managers-futsal-edition/releases)!  
