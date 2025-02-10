@@ -11,6 +11,8 @@ privacypolicy = "privacy-policies.md"
 
 **[Wishlist now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
 
+**[Play the Beta on itch.io](https://simondalvai.itch.io/99managers-futsal-edition)**
+
 All games of the series are Open Surce, with zero ads and zero tracking.  
 
 The games will be avaiable on different platforms  
