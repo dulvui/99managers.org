@@ -1,6 +1,6 @@
 +++
 title = "99 Managers"
-description = "99 Managers landing page"
+description = "99 Managers is a series of FOSS team sport manager games."
 template = "index.html"
 insert_anchor_links = "heading"
 

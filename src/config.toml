@@ -33,6 +33,7 @@ highlight_themes_css = [
 
 [extra]
 icon = "me.webp"
+copyright = "2025 Simon Dalvai"
 
 # links
 links.github = "https://github.com/dulvui/99managers-futsal-edition"
