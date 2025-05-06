@@ -5,19 +5,21 @@ template = "index.html"
 insert_anchor_links = "heading"
 
 [extra]
-introduction = "is a unique series of team sports manager games."
+introduction = "is a series of FOSS team sports manager games."
 privacypolicy = "privacy-policies.md"
 +++
 
-**[Wishlist now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
 
-**[Play the Beta on itch.io](https://simondalvai.itch.io/99managers-futsal-edition)**
+**Futsal** will be the first sport covered by the series.  
+**[Wishlist it now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
 
-All games of the series are Open Surce, with zero ads and zero tracking.  
+Get the **free** beta version on
+[itch.io](https://simondalvai.itch.io/99managers-futsal-edition),
+[Codeberg](https://github.com/dulvui/99managers-futsal-edition/releases) or
+[Github](https://codeberg.org/dulvui/99managers-futsal-edition/releases).
 
-The games will be avaiable on different platforms  
-**for a fee** on Steam, App Store and Google Play Store,  
-**for free** on itch.io, F-Droid and Flathub.  
-
-The first game of the series is [99 Managers Futsal Edition](@/futsal-edition/index.md).
-
+Find the **FAQ**
+[on my blog](https://simondalvai.org/blog/99managers-futsal-faq/)
+and the **source code** on 
+[Codeberg](https://github.com/dulvui/99managers-futsal-edition) and
+[Github](https://codeberg.org/dulvui/99managers-futsal-edition).
