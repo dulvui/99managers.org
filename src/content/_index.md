@@ -5,10 +5,11 @@ template = "index.html"
 insert_anchor_links = "heading"
 
 [extra]
-introduction = "is a series of FOSS team sports manager games."
+introduction = "This is 99 Managers™"
 privacypolicy = "privacy-policies.md"
 +++
 
+A series team sports manager games, that is Free and Open Source.
 
 **Futsal** will be the first sport covered by the series.  
 **[Wishlist it now on Steam!](https://store.steampowered.com/app/3334770/99_Managers_Futsal_Edition/)**
