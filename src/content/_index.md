@@ -5,7 +5,7 @@ template = "index.html"
 insert_anchor_links = "heading"
 
 [extra]
-introduction = "This is 99 Managers™."
+introduction = "This is 99Managers™."
 privacypolicy = "privacy-policies.md"
 +++
 
