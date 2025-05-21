@@ -1,7 +1,11 @@
+# MOVED TO CODEBERG
+The main repository is on now [Codeberg](https://codeberg.org/dulvui/99managers.org).  
+FOSS should be hosted by FOSS.
+
+----
+
 # 99managers.org
 99 Managers simple landing page visible at [99managers.org](https://99managers.org/)
-
-Available on [Codeberg](https://codeberg.org/dulvui/99managers.org) and [Github](https://github.com/dulvui/99managers.org).
 
 # Build
 To build the site locally please install first [zola](https://www.getzola.org/).
